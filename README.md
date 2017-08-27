@@ -1,19 +1,15 @@
-Grand Theft Wumpus
-==================
+# Grand Theft Wumpus
 
-0. Introduction.
-----------------
+## 0. Introduction.
 Grand Theft Wumpus is a game based on textbook example of the same name from
 Conrad Barski's (hilarious!) book, 'The Land of Lisp'. Initially, it *is*
 exactly that textbook example, but eventually it should evolve into something
 more fun.
 
-1. Requirements.
-----------------
+## 1. Requirements.
 This game requires SBCL (Steel Bank Common Lisp) to be installed.
 
-1. Playing Instruction.
------------------------
+## 2. Playing Instruction.
 Bring up a REPL in SBCL (directly, or via SWANK, however you prefer) and
 evaluate
 
